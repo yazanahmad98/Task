@@ -1,0 +1,38 @@
+.p1{
+    background-color: rgb(20, 20, 238);
+}
+.p2{
+    background-color:brown   
+}
+.p3{
+background-color: aquamarine;
+}
+.p4{
+background-color: darkgreen;
+}
+.p5{
+    background-color: darkgray;
+}
+.p6{
+    background-color: darkviolet;
+}
+
+.scndPara{
+    border: 1px dotted;
+    margin-top: 10px;
+    border-top: dashed;
+    color: rgb(190, 7, 7);
+    width: 40%;
+    height: 30%;
+    box-shadow: 5px 10px;box-shadow: 3px 5px;
+    margin-bottom: 10PX;
+
+
+
+}
+.FstPara{
+    border: 1px solid;
+    box-shadow: 5px 10px;box-shadow: 3px 5px;
+    width: 40%;
+    height: 30%;
+}

@@ -1,0 +1,20 @@
+#fstlink{
+    color: green;
+}
+#scndlink{
+    background-color: yellow ;
+    color: red;
+}
+#thdlink{
+    color: red;
+    font-weight: bold;
+}
+#ul{
+    color: red;
+}
+#dd{
+    color: red;
+}
+.ul1{
+    color: blue;
+}
