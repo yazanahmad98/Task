@@ -1,0 +1,14 @@
+.body{
+    position: relative; top: 50px;
+}
+.a{
+    border: 5px solid;
+    padding: 25px;
+    margin-left:  5px;
+    position: relative; bottom: 25px;
+}
+.b{
+    border: 5px solid;
+    padding: 25px;
+    margin-left:  5px;
+}
